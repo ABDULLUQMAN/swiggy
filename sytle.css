@@ -1,0 +1,30 @@
+
+.carousel-item img {
+    height: 560px; 
+    width:600px
+
+    object-fit:contain   
+}
+.main{
+    display: flex;
+    margin: auto;
+    text-align: center;
+    background-color: azure;
+    /* border:5px solid black;
+    border-radius: 20px;
+    background-position: center
+    ; */
+    
+    /* height: 300px;
+    width:200px;
+    border:4px solid black; */
+}
+.card_01,card_02,card_03{
+    height: 350px;
+    width:300px;
+    margin:auto;
+    border: 5px solid black;
+    border-radius: 20px;
+    background-position:center;
+    background-size: cover;
+}
